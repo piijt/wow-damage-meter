@@ -1,0 +1,6 @@
+# local fight history (contains other players' data) and runtime files
+combat.db
+combat.db-*
+error.log
+__pycache__/
+*.pyc
